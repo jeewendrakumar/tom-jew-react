@@ -1,0 +1,17 @@
+{
+  "name": "tom-jew",
+  "version": "1.0.0",
+  "description": "we are doing nativ react",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aakash",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-open": "^2.0.0"
+  }
+}
