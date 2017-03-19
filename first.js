@@ -67,13 +67,19 @@ var myObj = {x: x, y: y};
 function even(a){
 	if(a%2 == 0){
 		console.log("number is even")
-	}else if(){
-		
+	} else if(){	
 	}
 	else{
 		console.log("number is odd")
 	}
 }
-
+function isAuthorized(auth){
+	if (auth === 'jeewendra'){
+		console.log('authorized');
+	} else {
+		console.log('not authorized');
+	}
+}
+isAuthorized('jeewendra');
 
 
